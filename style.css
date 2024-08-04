@@ -470,11 +470,11 @@ nav li a {
     display: flex;
     flex-direction: row;
     justify-content:space-evenly;
-    padding-left: 189px;
-    padding-right: 189px;
+    /* padding-left: 189px;
+    padding-right: 189px; */
 
 
-    margin-bottom: 500px;
+    /* margin-bottom: 500px; */
 }
 
 .sec-5-1{
@@ -490,7 +490,7 @@ nav li a {
     padding-top: 49px;
 
 
-    margin-bottom: 500px;
+    /* margin-bottom: 300px; */
 }
     
 .sec-5-1_header{
@@ -515,8 +515,10 @@ nav li a {
 
 }
 .table{
-    width: 310px;
-    height: 216px;
+    margin-top: 20px;
+    width: 315px;
+    height: 226px;
+    margin-bottom: 132px;
 
 }
 .table ,tr ,td ,th{
@@ -531,6 +533,281 @@ td{
     color:rgba(255, 255, 255, 0.5);
 }
 
+.sec-5_description{
+    color: rgba(255, 255, 255, 0.5);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    text-align: left;
+
+}
+.bmi-form{
+    margin-top: 25px;
+    /* color: rgba(255, 255, 255, 0.6); */
+
+}
+
+#f-1{
+    padding: 10px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.6);
+    width: 282.5px;
+    height: 48px;
+    border: none;
+    font-family: Inter;
+    font-size: 1rem;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-weight: 400;
+}
+
+
+#f-2{
+    padding: 10px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.6);
+    width: 282.5px;
+    height: 48px;
+    border: none;
+    font-family: Inter;
+    font-size: 1rem;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-weight: 400;
+
+}
+
+
+#f-3{
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.6);
+    width: 282.5px;
+    height: 48px;
+    border: none;
+    font-family: Inter;
+    font-size: 1rem;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-weight: 400;
+}
+
+
+#f-4{
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.6);
+    width: 282.5px;
+    height: 48px;
+    border: none;
+    font-family: Inter;
+    font-size: 1rem;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-weight: 400;
+}
+
+
+#f-5{
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.6);
+    width: 572.5px;
+    height: 48px;
+    border: none;
+    font-family: Inter;
+    font-size: 1rem;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-weight: 400;
+    margin-bottom:25px ;
+}
+
+/* Section 6 */
+
+.section-6{
+    padding: 0 190px;
+    /* margin-bottom: 88px; */
+}
+
+.header-6{
+    margin-top: 88px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+.header-6-description{
+    margin-left: 194.5px;
+    margin-right: 194.5px;
+    width: 671px;
+    color: rgba(255, 255, 255, 0.5);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    margin-bottom: 35px;
+
+}
+
+.team-img{
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 18px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding:20px 10px 0px 10px;
+}
+.t-img{
+    width: 326.5px;
+    height: 272px;
+    border-radius: 20px;
+
+}
+.member-name{
+    font-weight: 900;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 1rem;
+    position: relative;
+    bottom: 20%;
+    left: 4%;
+}
+.member-description{
+    font-size: 0.90rem;
+    font-weight: 380;
+    line-height: 25px;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.5);
+    font-family: Inter;
+    position: relative;
+    bottom: 20%;
+    left: 4%;
+ 
+}
+
+/* Section 7  footer*/
+.section-7{
+    background: rgb(34, 34, 34);
+    margin-top: 88px;
+
+}
+.footer{
+    padding: 0px 190px;
+    display: flex;
+    flex-direction: row;
+    gap: 102px;
+    margin-bottom: 79px;
+
+}
+.fotter1{
+    padding-top: 66px;
+    width: 443px;
+    height: 72px;
+    text-align: left;
+    margin-bottom: 76px;
+}
+.header-7{
+    color: rgb(230, 83, 60);
+    font-family: Inter;
+    font-style: italic;
+    font-size: 70px;
+    font-weight: 800;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 20px;
+
+}
+.header-7-description{
+    color: rgba(255, 255, 255, 0.5);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    text-align: left;
+
+}
+
+.footer2{
+    padding-top: 76px;
+
+    /* width: 514px;
+    height: 249px; */
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    justify-content: center;
+    gap: 152px;
+}
+.fotter2-header{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 181px;
+    height: 38px;
+}
+.footer2-description{
+    color: rgba(255, 255, 255, 0.5);
+    font-family: Inter;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.row{
+    /* margin-top: 79px; */
+    justify-content: center;
+    width: 1059.5px;
+    height: 0;
+    border: 0.5px solid rgba(255, 255, 255, 0.1);
+    margin: 0 auto;
+    padding-left: 189px;
+    padding-right: 191.5px;
+}
+.f-description{
+    margin-top: 38px;
+    color: rgba(255, 255, 255, 0.5);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    text-align: center;
+
+}
 
 
 /* share class */
